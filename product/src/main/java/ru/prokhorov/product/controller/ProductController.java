@@ -1,4 +1,4 @@
-package ru.prokhorov.produck.controller;
+package ru.prokhorov.product.controller;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
@@ -10,9 +10,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
-import ru.prokhorov.produck.entity.Product;
-import ru.prokhorov.produck.entity.dto.ProductUpdateDto;
-import ru.prokhorov.produck.service.ProductService;
+import ru.prokhorov.product.entity.Product;
+import ru.prokhorov.product.entity.dto.ProductUpdateDto;
+import ru.prokhorov.product.service.ProductService;
 
 import java.util.List;
 

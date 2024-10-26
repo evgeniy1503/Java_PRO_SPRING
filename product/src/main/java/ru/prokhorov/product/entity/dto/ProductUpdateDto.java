@@ -1,4 +1,4 @@
-package ru.prokhorov.produck.entity.dto;
+package ru.prokhorov.product.entity.dto;
 
 import lombok.Getter;
 
