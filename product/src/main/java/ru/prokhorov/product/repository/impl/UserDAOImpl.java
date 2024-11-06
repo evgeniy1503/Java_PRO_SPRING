@@ -1,9 +1,9 @@
-package ru.prokhorov.produck.repository.impl;
+package ru.prokhorov.product.repository.impl;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Repository;
-import ru.prokhorov.produck.entity.User;
-import ru.prokhorov.produck.repository.UserDAO;
+import ru.prokhorov.product.entity.User;
+import ru.prokhorov.product.repository.UserDAO;
 
 import javax.sql.DataSource;
 import java.sql.Connection;

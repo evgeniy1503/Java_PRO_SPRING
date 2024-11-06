@@ -1,4 +1,4 @@
-package ru.prokhorov.produck.entity.enums;
+package ru.prokhorov.product.entity.enums;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

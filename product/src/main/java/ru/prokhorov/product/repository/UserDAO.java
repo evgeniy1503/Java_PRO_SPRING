@@ -1,6 +1,6 @@
-package ru.prokhorov.produck.repository;
+package ru.prokhorov.product.repository;
 
-import ru.prokhorov.produck.entity.User;
+import ru.prokhorov.product.entity.User;
 
 import java.util.Optional;
 

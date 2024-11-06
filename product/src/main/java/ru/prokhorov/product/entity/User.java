@@ -1,4 +1,4 @@
-package ru.prokhorov.produck.entity;
+package ru.prokhorov.product.entity;
 
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;

@@ -1,4 +1,4 @@
-package ru.prokhorov.produck;
+package ru.prokhorov.product;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

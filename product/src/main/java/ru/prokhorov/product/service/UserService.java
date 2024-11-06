@@ -1,9 +1,9 @@
-package ru.prokhorov.produck.service;
+package ru.prokhorov.product.service;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
-import ru.prokhorov.produck.entity.User;
-import ru.prokhorov.produck.repository.UserDAO;
+import ru.prokhorov.product.entity.User;
+import ru.prokhorov.product.repository.UserDAO;
 
 /**
  * Сервис по работе с {@link UserDAO}.
